@@ -33,6 +33,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="FinchAPI">
+      <HintPath>..\..\..\TellMeAboutIt\FinchAPI\FinchAPI.dll</HintPath>
+    </Reference>
+    <Reference Include="HidSharp">
+      <HintPath>..\..\..\TellMeAboutIt\FinchAPI\HidSharp.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
